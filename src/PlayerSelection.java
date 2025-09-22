@@ -44,15 +44,6 @@ public class PlayerSelection {
             System.out.println("Player is a Veteran"); 
         }
 
-        // Printing Player details without height and weight conversion
-        // System.out.println(" ");
-        // System.out.println("Printing Player details without height and weight conversion... ");
-        // System.out.println("Player Name: " + name);
-        // System.out.println("Age: " + age);
-        // System.out.println("Height: " + height + "m");
-        // System.out.println("Weight: " + weight + "lbs");
-        // System.out.println("Jersey Number: " + jerseyNumber);
-
         // Conversion of weight and height
         final float pounds = 0.45359237f;
         final int meters = 100;
